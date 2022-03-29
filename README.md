@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nefoedd, a female engineer from Atlanta, GA
+- 👋 Hi, I’m @nefoedd, a female engineer 
 - 👀 I’m interested in bioengineering and medical engineering
 - 🌱 I’m currently in high school
 - 💞️ I’m looking to collaborate on a recognition AI 
